@@ -1,5 +1,9 @@
 # IPT_Inso
-##Inso's Project
+Inso's Project
+ Managing the README.md file
 
-Author
-insoaldave@gmail.com
+## Author
+ https://github.com/debdeb2
+
+## Sample Code
+printf( 'HELLO WORLD!' );
