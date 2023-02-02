@@ -8,5 +8,5 @@ Inso's Project
 ## Sample Code
 printf( 'HELLO WORLD!' );
 
-##How to Install Git
+## How to Install Git
  1. Download the zip file.
